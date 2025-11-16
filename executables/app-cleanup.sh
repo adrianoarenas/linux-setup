@@ -3,6 +3,8 @@
 # Omarchy Cleaner - Remove unwanted default applications from Omarchy
 # Enhanced with gum for a better TUI experience
 
+# Taken from https://github.com/maxart/omarchy-cleaner
+
 # Version
 VERSION="2.0"
 
